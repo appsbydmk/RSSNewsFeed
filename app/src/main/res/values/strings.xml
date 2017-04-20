@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">RSSNewsFeed</string>
+    <string name="homepage">Homepage</string>
+    <string name="sports">Sports</string>
+    <string name="entertainment">Entertainment News</string>
+    <string name="politics">Politics News</string>
+    <string name="technology">Technology News</string>
+    <string name="settings">Settings</string>
+    <string name="exit">Exit</string>
+    <string name="sports_news">Sports News</string>
+
+    <string name="sports_hd_1">David Rudisha won arguably the greatest 800m race at the 2012 Games.</string>
+    <string name="sports_main_1">There was spontaneous applause. It erupted even before the video replay had ended. On screen, David Rudisha — with long meaningful strides — galloped from start to finish, ahead of the pack to win the 800m race at the 2012 London Olympics.
+</string>
+
+    <string name="sports_hd_2">Manchester United have nine straight victories in all competitions since December 8.</string>
+    <string name="sports_main_2">With Manchester United on its longest winning run in eight years, its tempting to conclude that a giant of English soccer is starting to resemble the force of old.Only one of its opponents in that one-month period could be classed as a major rival Tottenham. And that 1-0 win came on Dec. 11, when Spurs werent showing the kind of form they are at present.</string>
+
+    <string name="sports_hd_3">R  Ashwin snapped up 28 wickets while Ravindra Jadeja managed 26 wickets in the five match Test series against England.</string>
+    <string name="sports_main_3">England batsman Jonny Bairstow conceded that facing up to the twin threat from the Indian spin duo of Ravichandran Ashwin and Ravindra Jadeja would continue to pose a big challenge to his side in the One-Day International series starting at Pune on January 15.I have faced Ashwin and Jadeja in Test matches (that preceded the limited over part of the visit). We know they have got skills which are well documented. Its a great challenge, said Bairstow after the second warm-up game lost by the tourists to an India A side led by Ajinkya Rahane today.</string>
+
+    <string name="ent_hd_3">OK Jaanu team is on a high and heres why</string>
+    <string name="ent_main_3">There has been a lot of buzz around Shaad Alis Aditya Roy Kapur-Shraddha Kapoor-starrer OK Jaanu, which opens in cinemas today. The team of the romantic musical has many reasons to be upbeat about their date with the audience. For starters, its produced by two of the most revered names in Indian cinema, Karan Johar and Mani Ratnam. Further, the movie is a remake of Manis Tamil hit, O Kadhal Kanmani.</string>
+
+    <string name="ent_hd_2">Vin Diesel-Deepika Padukone host a grand premiere of their film xXx: Return of Xander Cage</string>
+    <string name="ent_main_2">Thursday evening saw a star-studded premiere of xXx: Return of Xander Cage in Mumbai. Present at the occasion were the movies lead stars, Vin Diesel and Deepika Padukone. Vin revealed during the Press Conference that took place right before the premiere, that during the shoot of their film, Deepika had expressed a desire to host a grand movie screening of their film in her homeland.  The celebrity screening that took place last evening, was attended by B-towns glitterati, Vin Diesel and director DJ Caruso.</string>
+
+    <string name="ent_hd_1">Hrithik and Yami revisit Dil Kya Kare in its new avatar.</string>
+    <string name="ent_main_1">No list of Hindi cinemas evergreen songs will be complete without Dil Kya Kare Jab Kisiko Kisi Se Pyaar Ho Jaaye, from the 70s hit, Julie. In fact, composer Rajesh Roshan had won a Filmfare Award for the album.
+Cut to the present. The romantic track is back in a new avatar in Rakesh Roshans upcoming film, Kaabil that is directed by Sanjay Gupta. Rendered by Jubin Nautiyal, the reprised version has been picturised on the lead pair, Hrithik Roshan and Yami Gautam.</string>
+
+    <string name="pol_hd_1">Cycle or No Cycle, Team Akhilesh Gears up for Uttar Pradesh Elections</string>
+    <string name="pol_main_1">New Delhi- Friday, the 13th of January is likely to see the logical denouement of the Samajwadi Party family crisis that has been hogging headlines for over four months now, with the Election Commission set to decide who — the Mulayam Singh Yadav-Shivpal Yadav combo or the Akhilesh Yadav-Ram Gopal Yadav faction — is the original SP. More importantly, the EC will decide who gets to claim the poll symbol of SP, the humble cycle.</string>
+
+    <string name="pol_hd_2">Mamatas Communal Politics Pushing Muslims in Bengal to BJP: Rahul Sinha</string>
+    <string name="pol_main_2">New Delhi: Politics in West Bengal has been heating up with growing animosity between the ruling Trinamool Congress and the BJP. BJPs West Bengal secretary Rahul Sinha spoke to News18s Debayan Roy on Mamata Banerjees communal politics, Muslims in the state supporting BJP and Mamatas central aspirations.</string>
+
+    <string name="pol_hd_3">Dimple and Priyanka May Emerge as Face of SP-Congress Campaign</string>
+    <string name="pol_main_3">Lucknow: Unfazed by ongoing feud within the Samajwadi Party, Uttar Pradesh Chief Minister Akhilesh Yadav is busy planning the campaign strategy for ‎the upcoming election.
+Sources say an aliance between the Akhilesh-led faction of the Samajwadi Party and the Congress is being worked out. A key aspect of this tie-up could well be the enhanced participation of Akhileshs wife and Kannauj MP Dimple Yadav and Congresss star campaigner Priyanka Gandhi.</string>
+
+    <string name="tech_hd_1">Nintendo Switch Price and Release Date Announced</string>
+    <string name="tech_main_1">The Nintendo Switch will cost $300
+It will be available from March 3
+Regional pricing has not been announced yet
+The Nintendo Switch will release on March 3 in Japan, US, Canada, Hong Kong, Europe and major European territories. It will cost $299.99. As for European prices, Nintendo asks fans to check with their local retailer.
+No information in terms of bundles has been given just yet. The Nintendo Switch will not be region-locked according to Nintendo President Tatsumi Kimishima.</string>
+
+    <string name="tech_hd_2">Opera Neon Concept Browser Launched for Windows and Mac Users; Showcases Futuristic Features</string>
+    <string name="tech_main_2">Opera has been launching quite a few features recently to up its browser game. From free VPN, to inbuilt ad-blocking, to a new privacy mode - the Opera browser updates have been frequently flowing. Ringing in the New Year, Opera has launched a parallel concept browser that showcases features that encapsulate the future of web browsing. The concept browser is being called Opera Neon and is built on the same browser engine as the Opera browser.</string>
+
+    <string name="tech_hd_3">Nokia 6 Price, Launch Date Revealed; More Android Smartphones Expected on February 26</string>
+    <string name="tech_main_3">
+The first of the much-anticipated Nokia Android phones, the Nokia 6, was unveiled earlier this month without much fanfare exclusively in China. The new Nokia 6 smartphone will be going on sale next week in the country, the company said in a Facebook post.
+Get ready. The Nokia 6 is coming to China. More announcements to follow on February 26th... Save the date, the post said.</string>
+
+    <string name="newspage">News Page</string>
+
+    <string name="settings_title">Select your category news</string>
+
+    <string name="submit">Submit</string>
+    <string name="default_setings">Default Settings</string>
+
+    <string name="thank_you">Thank You</string>
+</resources>

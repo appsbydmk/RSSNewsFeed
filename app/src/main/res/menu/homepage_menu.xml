@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/sports"
+        android:title="@string/sports"
+        android:showAsAction="never"/>
+    <item
+        android:id="@+id/entertainment"
+        android:title="@string/entertainment"
+        android:showAsAction="never"/>
+    <item
+        android:id="@+id/technology"
+        android:title="@string/technology"
+        android:showAsAction="never"/>
+    <item
+        android:id="@+id/politics"
+        android:title="@string/politics"
+        android:showAsAction="never"/>
+    <item
+        android:id="@+id/settings"
+        android:title="@string/settings"
+        android:showAsAction="never"/>
+    <item
+        android:id="@+id/exit"
+        android:title="@string/exit"
+        android:showAsAction="never"/>
+</menu>

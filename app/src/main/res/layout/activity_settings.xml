@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_settings"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EA9828"
+    tools:context="com.example.rssnewsfeed.SettingsActivity">
+
+    <TextView
+        android:id="@+id/setting_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="@string/settings_title" />
+
+    <RadioGroup
+        android:id="@+id/rbg_categories"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/setting_title"
+        android:layout_centerHorizontal="true"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin">
+
+        <RadioButton
+            android:id="@+id/spnews"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/sports_news" />
+
+        <RadioButton
+            android:id="@+id/entnews"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/entertainment" />
+
+        <RadioButton
+            android:id="@+id/technews"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/technology" />
+
+        <RadioButton
+            android:id="@+id/polnews"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/politics" />
+
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/default_setings"
+            android:id="@+id/defaultSettings"/>
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/submit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/rbg_categories"
+        android:layout_centerHorizontal="true"
+        android:text="@string/submit"
+        android:textAllCaps="false" />
+
+</RelativeLayout>

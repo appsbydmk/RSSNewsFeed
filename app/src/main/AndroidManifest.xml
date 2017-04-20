@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.rssnewsfeed">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".HomePage"
+            android:label="@string/homepage" />
+        <activity
+            android:name=".NewsPage"
+            android:label="@string/newspage" />
+        <activity
+            android:name=".SportsActivity"
+            android:label="@string/sports_news" />
+        <activity
+            android:name=".EntActivity"
+            android:label="@string/entertainment" />
+        <activity
+            android:name=".TechActivity"
+            android:label="@string/technology" />
+        <activity
+            android:name=".PoliticsActivity"
+            android:label="@string/politics" />
+        <activity
+            android:name=".SettingsActivity"
+            android:label="@string/settings" />
+        <activity android:name=".ExitActivity"></activity>
+    </application>
+
+</manifest>
